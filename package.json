@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord-button-pages": "^1.1.9",
+    "discord.js": "^12.5.3"
+  }
+}
